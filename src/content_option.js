@@ -5,62 +5,62 @@ const meta = {
 };
 
 const introdata = {
-    title: "Ik ben Dorin Bouwman",
+    title: "Hey, ik ben Dorin",
     animated: {
         first: "Ik hou van gadgets",
-        second: "Ik hou van AI",
-        third: "Ik ben ondernemer",
+        second: "Twee-meter-drie",
+        third: "Online specialist",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "In het kort",
+    aboutme: "Mijn naam is Dorin Bouwman, woonachtig in Groningen. Vanaf de middelbare school maak ik websites. Inmiddels heb ik tientalle projecten gelanceerd en voor meer dan 500 klanten gewerkt.",
 };
 const worktimeline = [{
         jobtitle: "Directeur",
         where: "Blauwe Ogen",
-        date: "2023",
+        date: "2023 - heden",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Online Consultant",
+        where: "B2Design",
+        date: "2014 - heden",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Eigenaar",
+        where: "Furfriends.nl",
+        date: "2019 - 2021",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "HTML",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "CSS",
         value: 85,
     },
     {
-        name: "Javascript",
-        value: 80,
+        name: "WordPress",
+        value: 95,
     },
     {
         name: "React",
-        value: 60,
+        value: 5,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Javascript",
+        value: 9,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Consultancy",
+        description: "Hulp nodig met een online vraagstuk? Nieuwe website of juist meer marketing? Met meer dan 10 jaar ervaring sta ik graag voor je klaar.",
     },
     {
         title: "Mobile Apps",
