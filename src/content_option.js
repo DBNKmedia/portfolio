@@ -1,7 +1,7 @@
 const logotext = "JOHN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Dorin Bouwman",
+    description: "Hoi, ik ben Dorin.",
 };
 
 const introdata = {
@@ -20,9 +20,9 @@ const dataabout = {
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Directeur",
+        where: "Blauwe Ogen",
+        date: "2023",
     },
     {
         jobtitle: "Designer of week",
