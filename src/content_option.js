@@ -1,4 +1,4 @@
-const logotext = "JOHN";
+const logotext = "DORIN.NL";
 const meta = {
     title: "Dorin Bouwman",
     description: "Hoi, ik ben Dorin.",
@@ -11,7 +11,7 @@ const introdata = {
         second: "Twee-meter-drie",
         third: "Online specialist",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Innovatie-volger, woont op het wereldwijde web.'Lang voor niks' volgens m'n oude basketballcoach en 'AI-Goeroe' volgens sommigen.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
